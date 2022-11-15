@@ -1,7 +1,7 @@
 🗨 Aspirante a dev; <br>
 📝 Estudante de Análise e Desenvolvimento de Sistemas - Uninter <br>
 📔 Cursando Desenvolvimento Web na Udemy; <br>
-🤓 Atualmente estou aprendendo HTML, CSS; <br>
+🤓 Atualmente estou aprendendo HTML, CSS, Python; <br>
 
 
 <!---
