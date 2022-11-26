@@ -3,6 +3,8 @@
 📔 Cursando Desenvolvimento Web na Udemy; <br>
 🤓 Atualmente estou aprendendo HTML, CSS, Python; <br>
 
+Esse Readme esta em fase de desenvolvimento, logo trago algo mais elaborado  🤓🤓🤓
+
 
 <!---
 andersonbauermann/andersonbauermann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
