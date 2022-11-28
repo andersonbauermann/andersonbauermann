@@ -14,9 +14,7 @@ Esse Readme esta em fase de desenvolvimento, logo trago algo mais elaborado  ğŸ¤
 </div>
 
 <div>
- <p >Perfil de Carreira</p>
  <a href="https://www.linkedin.com/in/anderson-bauermann-feltes-60042b76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
 
 <!---
