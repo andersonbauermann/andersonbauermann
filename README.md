@@ -1,23 +1,28 @@
-🗨 Aspirante a dev; <br>
-📝 Estudante de Análise e Desenvolvimento de Sistemas - Uninter <br>
-📔 Cursando Desenvolvimento Web na Udemy; <br>
-🤓 Atualmente estou aprendendo HTML, CSS, Python; <br>
-
-Esse Readme esta em fase de desenvolvimento, logo trago algo mais elaborado  🤓🤓🤓
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=andersonbauermann&count_private=true&show_icons=true&theme=chartreuse-dark">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonbauermann&bg_color=30,000099,660066&title_color=fff&text_color=fff" />
-  </a>
-  <a href="https://github.com/m0rp43us">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbauermann&bg_color=30,000099,660066&title_color=fff&text_color=fff" />
-  </a>
+  <p>💬<strong> Aspirante a dev; </strong></p>
+  <p>📕 Estudante de Análise e Desenvolvimento de Sistemas - <strong>Uninter</strong></p>
+  <p>👩🏻‍💻 Cursando Desenvolvimento Web na Udemy;</p>
 </div>
-
-<div style="margin-top: 20px;">
- <a href="https://www.linkedin.com/in/anderson-bauermann-feltes-60042b76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br><hr><br>
+<div>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonbauermann&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbauermann&layout=compact&langs_count=7&theme=Dark"/>
 </div>
-
-<!---
-andersonbauermann/andersonbauermann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br><hr><br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ade-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <!--<img align="center" alt="Ade-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">-->
+  <img align="center" alt="Ade-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <!--<img align="center" alt="Ade-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">-->
+  <img align="center" alt="Ade-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Ade-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Ade-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Ade-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Ade-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Ade-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <!--<img align="center" alt="Ade-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">-->
+</div>
+<br><hr><br>
+  <div>
+    <a href="https://www.linkedin.com/in/anderson-bauermann-feltes-60042b76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
