@@ -1,7 +1,7 @@
 <div>
   <p>💬<strong> Aspirante a dev; </strong></p>
   <p>📕 Estudante de Análise e Desenvolvimento de Sistemas - <strong>Uninter</strong></p>
-  <p>Learning about👩🏻‍💻</p>
+  <p>👩🏻‍💻 Learning about</p>
   
   <img align="center" alt="Ade-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="Ade-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
