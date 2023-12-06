@@ -1,6 +1,6 @@
 <div>
-  <p>💬<strong> Aspirante a dev; </strong></p>
-  <p>📕 Estudante de Análise e Desenvolvimento de Sistemas - <strong>Uninter</strong></p>
+  <p>💬<strong> developer in training; </strong></p>
+  <p>📕 systems analysis and development student - <strong>Uninter</strong></p>
   <p>👩🏻‍💻 Learning about</p>
   
   <img align="center" alt="Ade-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
