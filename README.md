@@ -1,5 +1,5 @@
 <div>
-  <p>💬<strong> developer in training; </strong></p>
+  <p>💬<strong> software developer; </strong></p>
   <p>📕 systems analysis and development student - <strong>Uninter</strong></p>
   <p>👩🏻‍💻 Learning about</p>
   
