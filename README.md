@@ -1,28 +1,22 @@
-# Hi, I`m Anderson
-<p>
-  <a href="https://github.com/andersonbauermann"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
-</p>
+# Hi there! 👋
 
-##
+Welcome to my GitHub profile! I'm Anderson Bauermann, a passionate developer who loves learning and building impactful projects.
+## 💬 About Me
+- 💼 **Software Developer**
+- 📕 **Systems Analysis and Development Student** at **Uninter**
+<div align="center">
+  <a href="https://www.linkedin.com/in/anderson-bauermann-feltes-60042b76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="mailto:anderson.bauermann@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/andersonbauermann">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonbauermann&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbauermann&layout=compact&langs_count=7&theme=dark"/>
+     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbauermann&theme=dark"/>
   </a>
 </div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anderson-bauermann-feltes-60042b76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:anderson.bauermann@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-## 💬 About Me
-- 💼 **Software Developer**
-- 📕 **Systems Analysis and Development Student** at **Uninter**
-
----
 
 ## 🛠️ Languages and Tools:
 <div align="left">
@@ -49,18 +43,3 @@
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="52" alt="visualstudiocode logo" />     
 </div>
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/andersonbauermann">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbauermann&theme=dark"/>
-  </a>
-</div>
-
----
-
-## 📫 Connect with Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/anderson-bauermann-feltes-60042b76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:anderson.bauermann@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
