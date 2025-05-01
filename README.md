@@ -1,9 +1,11 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Anderson Bauermann, a passionate developer who loves learning and building impactful projects.
+Welcome to my GitHub profile! I'm Anderson, a passionate developer who loves learning and building impactful projects.
 ## 💬 About Me
 - 💼 **Software Developer**
-- 📕 **Systems Analysis and Development Student** at **Uninter**
+- 📕 **Software Engineer** student at **PUC**
+- 💻 **Backend Specialist** passionate about scalable architectures, database optimization, and building robust APIs.
+
 <div align="center">
   <a href="https://www.linkedin.com/in/anderson-bauermann-feltes-60042b76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="mailto:anderson.bauermann@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
