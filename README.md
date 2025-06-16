@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm Anderson, a passionate developer who loves learning and building impactful projects.
 ## 💬 About Me
-- 💼 **Software Developer**
-- 📕 **Software Engineer** student at **PUC**
-- 💻 **Backend Specialist** passionate about scalable architectures, database optimization, and building robust APIs.
+- 💼 **Full Stack Developer | Backend**
+- 📕 **Distributed Software Architecture** student at **PUC**
+- 💻 **Backend Specialist** passionate about scalable systems, database optimization, and building robust APIs.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anderson-bauermann-feltes-60042b76/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
